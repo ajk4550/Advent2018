@@ -8,6 +8,7 @@ Day 1 - Completed!
 
 Day 2 - Completed!
 
+Day 3 - Completed!
 
 ## Note about performance
 Unless a performance metric is explicitly set, my approach for these tasks is to get my code working fast and worry less about performance and edge cases. Essentially my code is just finding the answer to the exact problem without accounting for every possible scenario.
